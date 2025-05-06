@@ -1,11 +1,11 @@
 1:HL["/_next/static/css/2c1d032feccaff2e.css","style",{"crossOrigin":""}]
 2:HL["/_next/static/css/9d1c543f72b3c88b.css","style",{"crossOrigin":""}]
-0:["nU1cezd5GZWBG-46FSiQw",[[["",{"children":["latest-news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2c1d032feccaff2e.css","precedence":"next","crossOrigin":""}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9d1c543f72b3c88b.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["XRiE05-V0Y-dFDdsSGtSR",[[["",{"children":["latest-news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2c1d032feccaff2e.css","precedence":"next","crossOrigin":""}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9d1c543f72b3c88b.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I{"id":6927,"chunks":["4724:static/chunks/4724-b60d7b9c27844474.js","4244:static/chunks/4244-4308ab1c49e08c9c.js","3185:static/chunks/app/layout-a46b138e72093245.js"],"name":"GoogleTagManager","async":false}
 6:I{"id":8270,"chunks":["4724:static/chunks/4724-b60d7b9c27844474.js","4244:static/chunks/4244-4308ab1c49e08c9c.js","3185:static/chunks/app/layout-a46b138e72093245.js"],"name":"","async":false}
 7:I{"id":1443,"chunks":["2272:static/chunks/webpack-4e7a2ef3097a46dd.js","2971:static/chunks/fd9d1056-7c4d42fd355379a0.js","7864:static/chunks/7864-339c948840d9c61d.js"],"name":"","async":false}
 8:I{"id":8639,"chunks":["2272:static/chunks/webpack-4e7a2ef3097a46dd.js","2971:static/chunks/fd9d1056-7c4d42fd355379a0.js","7864:static/chunks/7864-339c948840d9c61d.js"],"name":"","async":false}
-9:I{"id":4724,"chunks":["4724:static/chunks/4724-b60d7b9c27844474.js","9160:static/chunks/app/not-found-f6149f7375a483c5.js"],"name":"","async":false}
+9:I{"id":4724,"chunks":["4724:static/chunks/4724-b60d7b9c27844474.js","9160:static/chunks/app/not-found-2eff4e5bf7d9292b.js"],"name":"","async":false}
 b:I{"id":5146,"chunks":["2272:static/chunks/webpack-4e7a2ef3097a46dd.js","2971:static/chunks/fd9d1056-7c4d42fd355379a0.js","7864:static/chunks/7864-339c948840d9c61d.js"],"name":"","async":false}
 c:I{"id":6093,"chunks":["4724:static/chunks/4724-b60d7b9c27844474.js","1165:static/chunks/1165-e1d4686275e9323f.js","7514:static/chunks/app/latest-news/page-230221cb4b34ba3b.js"],"name":"","async":false}
 d:I{"id":8369,"chunks":["4724:static/chunks/4724-b60d7b9c27844474.js","4244:static/chunks/4244-4308ab1c49e08c9c.js","3185:static/chunks/app/layout-a46b138e72093245.js"],"name":"","async":false}

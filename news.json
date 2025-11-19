@@ -1,6 +1,30 @@
 {
     "news": [
         {
+            "id": "1763456683781",
+            "title": "mahesh test",
+            "slug": "mahesh-test",
+            "content": "<p>testttt<\/p>",
+            "image": "https:\/\/res.cloudinary.com\/dly7uiynr\/image\/upload\/v1763456682\/elss5sfukm0tdqdrhzqd.png",
+            "date": "2025-11-18"
+        },
+        {
+            "id": "1763452803653",
+            "title": "test",
+            "slug": "test",
+            "content": "<p>testttt<\/p>",
+            "image": "https:\/\/res.cloudinary.com\/dly7uiynr\/image\/upload\/v1763452802\/m6rzfyg0eubd61ox30jy.png",
+            "date": "2025-11-18"
+        },
+        {
+            "id": "1763449600469",
+            "title": "Indian American Community Hosts Grand Farewell for Deputy Consul General Dr. Varun Jeph",
+            "slug": "indian-american-community-hosts-grand-farewell-for-deputy-consul-general-dr-varun-jeph",
+            "content": "<p>The Indian American community of the tri-state area came together Thursday evening to bid a heartfelt farewell to Dr. Varun Jeph, Deputy Consul General of India in New York, who is concluding his diplomatic tenure. The grand reception, organized at the Moghul Ballroom in Edison, New Jersey, drew more than 200 members of the Indian American community.<\/p><p>The evening's program began with a viewing of Indian Prime Minister Narendra Modi's podcast interview with Lex Fridman, which continued after Dr. Jeph's arrival. The formal farewell ceremony featured presentations highlighting the achievements and milestones of Dr. Jeph's tenure, particularly noting his adept handling of complex situations and challenges during his service.<\/p><p>Mr. Ankur Vaidya, Chairman of the Federation of Indian Associations (FIA), delivered an emotional address praising Dr. Jeph's contributions. \"He is our man who knows the community like the back of his hands. His experience in navigating complex situations has been invaluable,\" said Vaidya. He further expressed gratitude for Dr. Jeph's role in maintaining strong connections between India and its diaspora.<\/p>",
+            "image": "https:\/\/res.cloudinary.com\/dly7uiynr\/image\/upload\/v1763449597\/bfzwyi6hqrlqp7eb1wwq.jpg",
+            "date": "2025-11-18"
+        },
+        {
             "id": "1763380167130",
             "title": "Historic Partnership Launches Cricket Revolution in America",
             "slug": "historic-partnership-launches-cricket-revolution-in-america",

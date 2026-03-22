@@ -21,9 +21,9 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:nirmala_reception2026@fianynjct.org
-DTSTAMP:20260411T220000Z
-DTSTART;TZID=America/New_York:20260411T180000
-DTEND;TZID=America/New_York:20260411T200000
+DTSTAMP:20260411T140000Z
+DTSTART;TZID=America/New_York:20260411T100000
+DTEND;TZID=America/New_York:20260411T100000
 SUMMARY:Hon. Nirmala Sitharaman Community Reception
 DESCRIPTION:Hon. Nirmala Sitharaman Community Reception at Palladium Times Square.
 LOCATION:1515 Broadway\, New York\, NY 10036

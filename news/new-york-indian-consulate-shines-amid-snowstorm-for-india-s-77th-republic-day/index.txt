@@ -1,0 +1,66 @@
+1:HL["/_next/static/css/d071dca61fbb01bf.css","style",{"crossOrigin":""}]
+2:HL["/_next/static/css/c1759a0575b8bd9e.css","style",{"crossOrigin":""}]
+0:["zWwP8RBy6nUBxDOAgswQa",[[["",{"children":["news",{"children":[["slug","new-york-indian-consulate-shines-amid-snowstorm-for-india-s-77th-republic-day","d"],{"children":["__PAGE__?{\"slug\":\"new-york-indian-consulate-shines-amid-snowstorm-for-india-s-77th-republic-day\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d071dca61fbb01bf.css","precedence":"next","crossOrigin":""}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/c1759a0575b8bd9e.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+5:HL["/_next/static/css/a0498e7c7c9c0297.css","style",{"crossOrigin":""}]
+6:I[3994,["8326","static/chunks/8326-ae066898460a9973.js","5364","static/chunks/5364-d3fef30576f8992e.js","6143","static/chunks/6143-4f68296c3362f366.js","3185","static/chunks/app/layout-83929e4cfebf3d32.js"],""]
+7:I[8000,["8326","static/chunks/8326-ae066898460a9973.js","5364","static/chunks/5364-d3fef30576f8992e.js","6143","static/chunks/6143-4f68296c3362f366.js","3185","static/chunks/app/layout-83929e4cfebf3d32.js"],""]
+8:I[6954,[],""]
+9:I[7264,[],""]
+a:I[8326,["8326","static/chunks/8326-ae066898460a9973.js","9160","static/chunks/app/not-found-1cb81002fc85dcde.js"],""]
+d:I[7928,["8326","static/chunks/8326-ae066898460a9973.js","5364","static/chunks/5364-d3fef30576f8992e.js","6143","static/chunks/6143-4f68296c3362f366.js","3185","static/chunks/app/layout-83929e4cfebf3d32.js"],""]
+e:I[2740,["8326","static/chunks/8326-ae066898460a9973.js","5364","static/chunks/5364-d3fef30576f8992e.js","6143","static/chunks/6143-4f68296c3362f366.js","3185","static/chunks/app/layout-83929e4cfebf3d32.js"],""]
+3:[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","$L6",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-11263033999","strategy":"afterInteractive"}],["$","$L6",null,{"id":"google-ads-tracking","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-11263033999');\n          "}]]}],["$","body",null,{"children":[["$","$L7",null,{}],["$","$L8",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":["$","div",null,{"className":"loading-ui","children":["$","p",null,{"children":"Loading..."}]}],"loadingStyles":[],"hasLoading":true,"error":"$undefined","errorStyles":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","notFound":[["$","div",null,{"className":"innerBanner","children":["$","h1",null,{"children":"Page Not Found"}]}],["$","section",null,{"className":"container custom-container not-found","children":[["$","img",null,{"src":"/images/not-found.png","alt":"Page Not Found"}],["$","p",null,{"children":"We're sorry, the page you requested could not be found."}],["$","$La",null,{"href":"/","className":"ReadMore","children":"Return Home"}]]}]],"notFoundStyles":[],"childProp":{"current":["$","$L8",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L8",null,{"parallelRouterKey":"children","segmentPath":["children","news","children",["slug","new-york-indian-consulate-shines-amid-snowstorm-for-india-s-77th-republic-day","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$Lb","$Lc",null],"segment":"__PAGE__?{\"slug\":\"new-york-indian-consulate-shines-amid-snowstorm-for-india-s-77th-republic-day\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a0498e7c7c9c0297.css","precedence":"next","crossOrigin":""}]]}],"segment":["slug","new-york-indian-consulate-shines-amid-snowstorm-for-india-s-77th-republic-day","d"]},"styles":[]}],"segment":"news"},"styles":[]}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Federation of Indian Associations | FIA NY NJ CT NE"}],["$","meta","2",{"name":"description","content":"The Federation of Indian Associations (FIA) is one of the oldest and largest non-profit grassroots umbrella organizations."}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+b:null
+f:T105a,<div class="grid w-full min-w-0 grid-cols-[minmax(0,1fr)]" dir="ltr" data-orientation="horizontal">
+<div class="col-start-1 row-start-2">
+<div id="radix-:rag:-content-thread" class="focus:outline-none" tabindex="0" role="tabpanel" data-state="active" data-orientation="horizontal" aria-labelledby="radix-:rag:-trigger-thread">
+<div class="border-subtlest ring-subtlest divide-subtlest bg-transparent">
+<div class="gap-y-md flex flex-col">
+<div class="relative font-sans text-base text-foreground selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super">
+<div class="min-w-0 break-words [word-break:break-word]">
+<div id="markdown-content-0" class="gap-y-md after:clear-both after:block after:content-['']" dir="auto">
+<div class="my-2 first:mt-0 [&amp;:has([data-inline-type=image])+&amp;:has([data-inline-type=image])_[data-inline-type=image]]:hidden [&amp;:has(table)_[data-inline-type=image]]:hidden [&amp;_h1:first-of-type]:mt-8 [&amp;_h2:first-of-type]:mt-6">
+<div class="relative">
+<div class="prose dark:prose-invert inline leading-relaxed break-words min-w-0 [word-break:break-word] prose-strong:font-medium visRefresh2026Fonts:prose-strong:font-bold [&amp;_&gt;*:first-child]:mt-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2"><em>Community Resilience and Young Achievers Honored Despite Harsh Weather</em></p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2">&nbsp;Braving a massive snowstorm that blanketed the city and snarled highways, a dedicated crowd gathered at the Indian Consulate General here for a spirited celebration of India's 77th Republic Day on January 26. Consul General Binaya Srikanta Pradhan led the flag-hoisting ceremony and delivered President Droupadi Murmu's address, which underscored the Constitution's enduring values and the pivotal contributions of citizens at home and abroad toward a developed India by 2047.</p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2">The event highlighted the unbreakable spirit of the community, with attendees undeterred by inclement conditions to reaffirm ties with the homeland. In a special recognition, the consulate felicitated second-generation standouts Ronit Karki and Jiya Jadhav for their exceptional achievements across various fields, inspiring pride and excellence among attendees.<span class="inline-flex" aria-label="Indian Consulate in New York, UN Permanent Mission celebrate India's 77th Republic Day with diaspora - News India Times" data-state="closed">​</span></p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2">India's Permanent Mission to the United Nations complemented the observance with a formal reception, fostering diplomatic goodwill in the heart of global affairs. These gatherings reflect the vibrant bridge between India and its partners in the U.S., embodying unity and progress even in adversity. As New York thaws from the storm, the message of constitutional strength resonates strongly.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="flex items-center justify-between">
+<div class="-ml-sm gap-xs flex flex-shrink-0 items-center">
+<div class="rounded-full">&nbsp;</div>
+</div>
+<div class="gap-x-xs flex flex-shrink-0 items-center">
+<div>
+<div class="gap-xs flex items-center border-subtlest ring-subtlest divide-subtlest bg-transparent">&nbsp;</div>
+</div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="gap-y-lg flex flex-col first:mt-0">
+<div class="">
+<div class="animate-in fade-in duration-100 ease-out md:mt-ml border-subtlest ring-subtlest divide-subtlest bg-transparent">
+<div class="border-subtlest ring-subtlest divide-subtlest bg-transparent">
+<div class="flex items-center justify-between border-subtlest ring-subtlest divide-subtlest bg-base">
+<div class="flex w-full items-center justify-between mb-md">
+<div class="">
+<div class="space-x-sm flex items-center">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>c:[["$","div",null,{"className":"innerBanner","children":["$","h1",null,{"children":"FIA Community News"}]}],["$","main",null,{"className":"container news-detail-page","children":[["$","i",null,{"className":"newsdate","children":"2026-01-29"}],["$","h2",null,{"children":"New York Indian Consulate Shines Amid Snowstorm for India's 77th Republic Day"}],["$","img",null,{"src":"https://res.cloudinary.com/dly7uiynr/image/upload/c_fill,w_600,h_370,g_auto,q_auto:good/f0fhnz1kwtee4q5ebrri.jpg","alt":"fianynjct"}],["$","div",null,{"className":"news-page-content","dangerouslySetInnerHTML":{"__html":"$f"}}],["$","a",null,{"href":"/news","className":"ReadMore","children":"← Back to List"}]]}]]

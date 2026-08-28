@@ -1,0 +1,9 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1703],{6834:function(e,t,r){Promise.resolve().then(r.bind(r,1124))},1124:function(e,t,r){"use strict";r.r(t),r.d(t,{default:function(){return NepalData}});var n=r(7437),o=r(2265);function NepalData(){let e=(0,o.useRef)(null);return(0,o.useEffect)(()=>{let t=e.current;if(!t)return;let reloadIframe=()=>{let e=t.src;t.src="about:blank",setTimeout(()=>{t.src=e},500)},r=setInterval(()=>{try{let e=t.contentDocument;e&&e.body&&e.body.innerHTML.trim()||reloadIframe()}catch(e){}},65e3);return()=>clearInterval(r)},[]),(0,n.jsx)("div",{style:{width:"100%",minHeight:"800px",overflow:"hidden"},children:(0,n.jsx)("iframe",{ref:e,src:"https://script.google.com/macros/s/AKfycbzuAsfZRp6ZqEOVqIX384oHJsAgbGNtjUMnSw3UhbxYskDBT2ZWSvBHAo7Jxk_bFUkW/exec",width:"100%",height:"800",style:{border:"none",width:"100%",display:"block"},title:"Nepal Missing Persons Registry"})})}},622:function(e,t,r){"use strict";/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */var n=r(2265),o=Symbol.for("react.element"),s=Symbol.for("react.fragment"),i=Object.prototype.hasOwnProperty,l=n.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED.ReactCurrentOwner,c={key:!0,ref:!0,__self:!0,__source:!0};function q(e,t,r){var n,s={},f=null,u=null;for(n in void 0!==r&&(f=""+r),void 0!==t.key&&(f=""+t.key),void 0!==t.ref&&(u=t.ref),t)i.call(t,n)&&!c.hasOwnProperty(n)&&(s[n]=t[n]);if(e&&e.defaultProps)for(n in t=e.defaultProps)void 0===s[n]&&(s[n]=t[n]);return{$$typeof:o,type:e,key:f,ref:u,props:s,_owner:l.current}}t.Fragment=s,t.jsx=q,t.jsxs=q},7437:function(e,t,r){"use strict";e.exports=r(622)}},function(e){e.O(0,[2971,2472,1744],function(){return e(e.s=6834)}),_N_E=e.O()}]);
